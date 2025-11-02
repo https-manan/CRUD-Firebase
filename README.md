@@ -1,4 +1,4 @@
-# Bookstre
+# Bookstore
 
 **Bookstre** is a modern web application built with **React** that allows users to browse, manage, and track books. It uses **Firebase** for authentication and real-time database management, ensuring a smooth, secure, and scalable experience.
 
@@ -25,9 +25,7 @@
 
 ---
 
-## ⚙️ Setup & Installation
-
-### 1️⃣ Clone the repository
+### Clone the repository
 ```bash
 git clone https://github.com/https-manan/CRUD-Firebase.git
 npm install
